@@ -8,7 +8,7 @@
 /a/c/amusement_park 7
 /a/n/apartment_building/outdoor 8
 /a/y/aquarium 9
-/a/n/aqueduct 10
+/a/y/aqueduct 10
 /a/c/arcade 11
 /a/n/arch 12
 /a/n/archaelogical_excavation 13
