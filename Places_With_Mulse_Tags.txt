@@ -1,8 +1,8 @@
-/a/airfield 0
-/a/airplane_cabin 1
-/a/airport_terminal 2
-/a/alcove 3
-/a/alley 4
+/a/airfield 0 d
+/a/airplane_cabin 1 d
+/a/airport_terminal 2 n
+/a/alcove 3 n
+/a/alley 4 
 /a/amphitheater 5
 /a/amusement_arcade 6
 /a/amusement_park 7
@@ -304,7 +304,7 @@
 /s/shower 303
 /s/ski_resort 304
 /s/ski_slope 305
-/s/sky 306
+/s/sky 306 n
 /s/skyscraper 307
 /s/slum 308
 /s/snowfield 309
